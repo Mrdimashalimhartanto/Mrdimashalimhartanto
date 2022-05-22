@@ -1,6 +1,8 @@
 ### Hallo semua 👋
-### 🔭 I’m currently working on Ciputra Life 
+### 🔭 Saya Sekarang Bekerja Ciputra Life & Ampaba Development 
 ### 🌱 I’m currently learning Laravel Docker & Flutter
+
+![screenshot](screenshot.png)
 
 
 <!--

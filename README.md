@@ -1,8 +1,11 @@
 ### Hallo semua 👋
-### 🔭 Saya Sekarang Bekerja Ciputra Life & Ampaba Development 
-### 🌱 I’m currently learning Laravel Docker & Flutter
+![gitgif](https://user-images.githubusercontent.com/77115235/169708978-c3664c24-1546-4043-bdad-079065d138b7.gif)
 
-![screenshot](screenshot.png)
+### 🔭 Saya Bekerja di Ciputra Life & Ampaba Development 
+### 🌱 Saya lagi belajar Laravel Docker & Flutter
+
+
+
 
 
 <!--

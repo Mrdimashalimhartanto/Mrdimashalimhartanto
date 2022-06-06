@@ -1,5 +1,7 @@
 ### Hallo semua nama gue dimas halim hartanto,salam kenal yaa.gua seorang amatir programmer.masih banyak belajar 👋
 ![gitgif](https://user-images.githubusercontent.com/77115235/169708978-c3664c24-1546-4043-bdad-079065d138b7.gif)
+![gitgif](https://raw.githubusercontent.com/gist/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif)
+
 
 ### 🌱 Saya lagi belajar Laravel Docker & Flutter
 

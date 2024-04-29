@@ -1,5 +1,3 @@
-### Hallo semua. selamat datang
-
 ### PROJECT MOBILE APPS
 
 ### PEDULI LINDUNGI

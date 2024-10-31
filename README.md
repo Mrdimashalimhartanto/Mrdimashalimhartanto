@@ -44,6 +44,56 @@ No activity tracked
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gapur&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </p>
 
+## 🤝 Connect with me:
+
+<a href="https://www.linkedin.com/in/deepajarout/"><img align="left" src="https://raw.githubusercontent.com/deepajarout/deepajarout/main/5296501_linkedin_network_linkedin logo_icon.png" alt="deepa Jarout | LinkedIn" width="35px"/></a>
+
+<a href="https://instagram.com/deepajarout"><img align="left" src="https://raw.githubusercontent.com/deepajarout/deepajarout/main/5296765_camera_instagram_instagram logo_icon.png" alt="deepa Jarout| Instagram" width="35px"/></a>
+
+<a href="https://www.facebook.com/deepajarout0"><img align="left" src="https://raw.githubusercontent.com/deepajarout/deepajarout/main/5365678_fb_facebook_facebook logo_icon.png" alt="deepa Jarout| Facebook" width="35px"/></a>
+
+<a href="https://www.youtube.com/channel/UCD1TmriSJKAZQPmWsqb8dnQ"><img align="left" src="https://raw.githubusercontent.com/deepajarout/deepajarout/main/5296521_play_video_vlog_youtube_youtube logo_icon.png" alt="deepa Jarout| Youtube" width="35px"/></a>
+
+<a href="https://twitter.com/deepajarout"><img align="left" src="https://raw.githubusercontent.com/deepajarout/deepajarout/main/5296514_bird_tweet_twitter_twitter logo_icon.png" alt="deepa Jarout| Twitter" width="35px"/></a>
+
+<a href="https://deepajarout.medium.com/"><img align="left" src="https://raw.githubusercontent.com/deepajarout/deepajarout/main/7079375_medium logo_medium_icon.png" alt="deepa jarout | Medium" width="35px"/></a>
+
+<a href="mailto:dj.jarout@gmail.com"><img align="left" src="https://raw.githubusercontent.com/deepajarout/deepajarout/main/2993691_brand_brands_gmail_logo_logos_icon.png" alt="deepa jarout | Gmail" width="35px"/></a>
+
+<a href="https://www.quora.com/profile/Deepa-Jarout-1"><img align="left" src="https://raw.githubusercontent.com/deepajarout/deepajarout/main/2613304_answers_insights_knowledge_questions_quora_icon.png" alt="deepa jarout | Quora" width="35px"/></a>
+
+<a href="https://www.yourquote.in/deepa-jarout-bcnif/quotes"><img align="left" src="https://raw.githubusercontent.com/deepajarout/deepajarout/main/pngaaa.com-2253457.png" alt="deepa jarout | Quora" width="35px" /></a>
+</br>
+</br>
+
+
+## 💼 Technical Skills
+
+![](https://img.shields.io/badge/gaming-unity-informational?style=flat&logo=unity&logoColor=white)
+![](https://img.shields.io/badge/Framework-node.js-informational?style=flat&logo=node.js&logoColor=white)
+![](https://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=mongodb&logoColor=white)
+![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=61DAFB)
+![](https://img.shields.io/badge/Code-Redux-informational?style=flat&logo=Redux&color=764ABC)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&color=F7DF1E)
+![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=HTML5&color=E34F26)
+![](https://img.shields.io/badge/Code-PostgreSQL-informational?style=flat&logo=PostgreSQL&color=336791)
+![](https://img.shields.io/badge/Code-SQLite-informational?style=flat&logo=SQLite&color=003B57)
+![](https://img.shields.io/badge/Code-Typescript-informational?style=flat&logo=typescript&logoColor=white)
+![](https://img.shields.io/badge/code-GraphQL-informational?style=flat&logo=graphql&logoColor=white)
+![](https://img.shields.io/badge/code-JWT-informational?style=flat&logo=JSON%20web%20tokens)
+![](https://img.shields.io/badge/code-GULP-informational?style=flat&logo=gulp&logoColor=white)
+
+</br>
+
+![](https://img.shields.io/badge/Style-Bootstrap-informational?style=flat&logo=Bootstrap&color=7952B3)
+![](https://img.shields.io/badge/Style-CSS3-informational?style=flat&logo=CSS3&color=1572B6)
+![](https://img.shields.io/badge/Style-styled--components-informational?style=flat&logo=styled-components&color=DB7093)
+
+
+</br>
+
+
+
 ### Mobile Apps
 
 ### PEDULI LINDUNGI

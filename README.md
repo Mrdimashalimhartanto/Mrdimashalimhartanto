@@ -48,7 +48,7 @@ No activity tracked
 
 <a href="https://www.linkedin.com/in/dimas-halim-hartanto-62b5b8151/"><img align="left" src="https://raw.githubusercontent.com/deepajarout/deepajarout/main/5296501_linkedin_network_linkedin logo_icon.png" alt="dimas halim hartanto | LinkedIn" width="35px"/></a>
 
-<a href="https://instagram.com/dimashalimh"><img align="left" src="https://raw.githubusercontent.com/dimashalimh/dimashalimh/main/5296765_camera_instagram_instagram logo_icon.png" alt="Dimas halim h| Instagram" width="35px"/></a>
+<a href="https://instagram.com/dimashalimh"><img align="left" src="https://raw.githubusercontent.com/deepajarout/deepajarout/main/5296765_camera_instagram_instagram logo_icon.png" alt="deepa Jarout| Instagram" width="35px"/></a>
 
 <a href="https://www.facebook.com/deepajarout0"><img align="left" src="https://raw.githubusercontent.com/deepajarout/deepajarout/main/5365678_fb_facebook_facebook logo_icon.png" alt="deepa Jarout| Facebook" width="35px"/></a>
 

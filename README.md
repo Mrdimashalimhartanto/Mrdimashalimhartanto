@@ -40,8 +40,8 @@ No activity tracked
 📈 **My GitHub Stats:**
 
 <p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gapur&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gapur&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mrdimashalimhartanto&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mrdimashalimhartanto&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </p>
 
 ## 🤝 Connect with me:
@@ -56,9 +56,7 @@ No activity tracked
 
 <a href="https://twitter.com/deepajarout"><img align="left" src="https://raw.githubusercontent.com/deepajarout/deepajarout/main/5296514_bird_tweet_twitter_twitter logo_icon.png" alt="deepa Jarout| Twitter" width="35px"/></a>
 
-<a href="mailto:dj.dimashalim0212@gmail.com"><img align="left" src="https://raw.githubusercontent.com/Mrdimashalimhartanto/Mrdimashalimhartanto/main/2993691_brand_brands_gmail_logo_logos_icon.png" alt="Dimas Halim Hartanto | Gmail" width="35px"/></a>
-
-<a href="https://www.yourquote.in/deepa-jarout-bcnif/quotes"><img align="left" src="https://raw.githubusercontent.com/deepajarout/deepajarout/main/pngaaa.com-2253457.png" alt="deepa jarout | Quora" width="35px" /></a>
+</a>
 </br>
 </br>
 
@@ -103,12 +101,6 @@ No activity tracked
 ### AMPABA CLUB
 
 ### ![ampabaclub](https://user-images.githubusercontent.com/77115235/169709407-e5f1d6c1-3d8a-492c-b8a7-ff9b790e78bf.png)
-
-
-
-
-
-
 
 
 

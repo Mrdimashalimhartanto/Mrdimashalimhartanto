@@ -28,15 +28,9 @@ No activity tracked
 
 ## 🤝 Connect with me:
 
-<a href="https://www.linkedin.com/in/dimas-halim-hartanto-62b5b8151/"><img align="left" src="https://raw.githubusercontent.com/deepajarout/deepajarout/main/5296501_linkedin_network_linkedin logo_icon.png" alt="dimas halim hartanto | LinkedIn" width="35px"/></a>
+<a href="https://www.linkedin.com/in/dimashalimhartanto/"><img align="left" src="https://raw.githubusercontent.com/deepajarout/deepajarout/main/5296501_linkedin_network_linkedin logo_icon.png" alt="dimas halim hartanto | LinkedIn" width="35px"/></a>
 
 <a href="https://instagram.com/dimashalimh"><img align="left" src="https://raw.githubusercontent.com/deepajarout/deepajarout/main/5296765_camera_instagram_instagram logo_icon.png" alt="deepa Jarout| Instagram" width="35px"/></a>
-
-<a href="https://www.facebook.com/deepajarout0"><img align="left" src="https://raw.githubusercontent.com/deepajarout/deepajarout/main/5365678_fb_facebook_facebook logo_icon.png" alt="deepa Jarout| Facebook" width="35px"/></a>
-
-<a href="https://www.youtube.com/channel/UCD1TmriSJKAZQPmWsqb8dnQ"><img align="left" src="https://raw.githubusercontent.com/deepajarout/deepajarout/main/5296521_play_video_vlog_youtube_youtube logo_icon.png" alt="deepa Jarout| Youtube" width="35px"/></a>
-
-<a href="https://twitter.com/deepajarout"><img align="left" src="https://raw.githubusercontent.com/deepajarout/deepajarout/main/5296514_bird_tweet_twitter_twitter logo_icon.png" alt="deepa Jarout| Twitter" width="35px"/></a>
 
 </a>
 </br>

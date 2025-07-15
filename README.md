@@ -9,14 +9,6 @@ No activity tracked
 
 <!--END_SECTION:waka-->
 
-
-📈 **My GitHub Stats:**
-
-<p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mrdimashalimhartanto&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mrdimashalimhartanto&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
-</p>
-
 ## 🤝 Connect with me:
 
 <a href="https://www.linkedin.com/in/dimashalimhartanto/"><img align="left" src="https://raw.githubusercontent.com/deepajarout/deepajarout/main/5296501_linkedin_network_linkedin logo_icon.png" alt="dimas halim hartanto | LinkedIn" width="35px"/></a>

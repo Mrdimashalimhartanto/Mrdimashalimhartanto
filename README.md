@@ -1,14 +1,5 @@
 ### <samp>&gt; Hi there, I'm <a href="https://gkassym.netlify.app" target="_blank">Dimas Halim Hartanto</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> </samp>
 
-📊 **This Week I Spent My Time On:**
-<!--START_SECTION:waka-->
-
-```txt
-No activity tracked
-```
-
-<!--END_SECTION:waka-->
-
 ## 🤝 Connect with me:
 
 <a href="https://www.linkedin.com/in/dimashalimhartanto/"><img align="left" src="https://raw.githubusercontent.com/deepajarout/deepajarout/main/5296501_linkedin_network_linkedin logo_icon.png" alt="dimas halim hartanto | LinkedIn" width="35px"/></a>
